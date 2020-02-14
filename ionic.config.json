@@ -1,5 +1,7 @@
 {
   "name": "ion3sql",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
